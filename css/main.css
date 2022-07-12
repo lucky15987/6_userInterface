@@ -33,10 +33,10 @@ body {
   transform-origin: left 50%;
 }
 .feature h3 {
-  font-size: 1.3rem;
+  font-size: 50%;
 }
 .feature .content {
-  width: 70%;
+  width: 30%;
   margin: 0 auto;
   transition: transform 0.3s;
 }
